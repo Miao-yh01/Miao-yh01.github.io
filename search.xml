@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>From Now On</title>
+      <link href="/2022/05/04/My-First-Post/"/>
+      <url>/2022/05/04/My-First-Post/</url>
+      
+        <content type="html"><![CDATA[<p>Hey~ This is my first post. </p><p>It’s not easy to build the first website, especially when you’re not sure about the correctness of tutorials. For a novice like me, breaking work had been down! My poor wish is the post-writing process will go on smoothly without annoying warnings and bugs. So yesterday, after some trials with the help of my friend, I was exhilarated to find that finally, everyone can visit my website based on my address, which is very meaningful. Some may notice I changed my English name from Lily to Bernadette; maybe I will drop this someday, so never mind. </p><p>I set up this blog site to record my life, mainly in Beihang, considering the school closure policy during the epidemic in Beijing. </p><p>These days’ pleasing climate with moist air and genial sunshine reminded me of Hangzhou; on countless nights in my midsummer dream, I wandered on the broken bridge by the West Lake and walked in the misty rain. To keep the minutes of my fantasies and stories, I’ll update my blog from time to time. Even if I’m stubborn with HEXO and all the programming stuff, I’ll figure out how to establish a message area below. </p><p>A good starting point; keep calm and fight on.<br><img src="http://localhost:4000/project/"></p><div id="container"></div><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"><script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script><script>var gitment = new Gitment({  id: 'location.href', // 可选。默认为 location.href  owner: 'Miao-yh01',  repo: 'Miao-yh01.github.io',  oauth: {    client_id: '3e13f0c2be567cf20b9c',    client_secret: '682959194dda32d4a84c17a957f10e6022468098',  },})gitment.render('container')</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
